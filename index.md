@@ -5,4 +5,4 @@ Collaborative software engineer
 ## My skills
 * Git and GitHub
 
-Changes that changes things
+Changes that ch4nges things for the better
